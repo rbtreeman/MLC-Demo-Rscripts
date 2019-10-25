@@ -1,0 +1,30 @@
+Type: Compendium
+Package: Your compendium name
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Your compendium description
+License: What license it uses
+Depends: 
+    AMR,
+    dmm,
+    dplyr,
+    expss,
+    foreign,
+    ggplot2,
+    lattice,
+    memisc,
+    openxlsx,
+    plyr,
+    reshape2,
+    stargazer,
+    summarytools,
+    tidyr,
+    xtable
+Encoding: UTF-8
+LazyData: true
